@@ -7,5 +7,5 @@ spec:
   - image: ubuntu
     command:
       - "sleep"
-      - "604800"
+      - "3600"
     name: ubuntu
